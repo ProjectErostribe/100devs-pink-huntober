@@ -28,16 +28,17 @@ A learning plan to learn the basics of OOP, get a command of Full Stack Javascri
 
 
 ## THE PLAN:
-- 🚀 [ACT 01: **JS Review**](#day01)
-- 🚀 [ACT 02: **PostgreSQL**](#day02)
-- 🚀 [ACT 03: **Web Accessibility**](#day03)
+
+- 🚀 [ACT 01: **JS Review**] (Tuesday 8/23/2022)
+- 🚀 [ACT 02: **PostgreSQL**](Sunday 8/28/2022)
+- 🚀 [ACT 03: **Web Accessibility**](Tuesday 8/30/2022)
 
 *** WHAT'S NEXT ***
-- 🚀 [ACT 04: **Full Stack JS (Node, Express, PostgreSQL)**](#day03)
-- 🚀 [ACT 05: **Test Driven Development**](#day05)
-- 🚀 [ACT 07: **Beautiful Backends**](#day06)
-- 🚀 [ACT 08: **Beautiful Frontends**](#day07)
-- 🚀 [ACT 09: **Build Process & Deployment**](#day08)
+- 🚀 [ACT 04: **Full Stack JS (Node, Express, PostgreSQL)**](#)
+- 🚀 [ACT 05: **Test Driven Development**](#)
+- 🚀 [ACT 07: **Beautiful Backends**](#)
+- 🚀 [ACT 08: **Beautiful Frontends**](#)
+- 🚀 [ACT 09: **Build Process & Deployment**](#)
 
 
 ***
