@@ -2,7 +2,7 @@
 
 # 📚 [My.L.E.S] Learning Plan
 
-A 90 day learning plan to learn the basics of OOP, get a command of Full Stack Javascript, build clean UIs with React, explore the cutting edge, and practice skills you'll need to be productive team member like advanced git and TDD.
+A learning plan to learn the basics of OOP, get a command of Full Stack Javascript, build clean UIs with React, explore the cutting edge, and practice skills you'll need to be productive team member like advanced git and TDD.
 
 
 ## Skills Covered:
@@ -20,8 +20,6 @@ A 90 day learning plan to learn the basics of OOP, get a command of Full Stack J
 - 💎 Test Driven Development
 
 ## How it works
-
-The plan is broken down into 9 week chunks. Each week will have the following:
 
 - 📖 Important Readings
 - 📼 Supplemental Videos To Watch
