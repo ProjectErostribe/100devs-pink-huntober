@@ -1,2 +1,2 @@
-# BWApprenticeshipJS
-JavaScript Self Study during Bitwise React Aprenticeship
+# THE QUEST FOR PINK HUNTOBER
+
