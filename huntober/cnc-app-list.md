@@ -8,6 +8,8 @@ HERE ARE 10 APPS THAT I PLAN TO WORK ON DURING HUNTOBER:
     <li> Team Black Panther refactor </li>
     <li> **DM** Alpha Centauri API build </li>
     <li> **DM** Alpha Centauri launch page </li>
+    <li> **Mandela CoOp** website/ordering platform </li>
+    <li> **Wahpehpah's Kitchen website/ordering platform </li>
     <li> Project Erostribe website(backend) </li>
     <li> Project Erostribe website(frontend) </li>
 </ul>
