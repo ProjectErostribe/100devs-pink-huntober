@@ -15,3 +15,11 @@
     <li> Project Erostribe website(frontend) </li>
 </ul>
 
+## HERE ARE THE COMPANIES THAT I PLAN TO TARGET DURING HUNTOBER:
+<ul>
+    <li> 1) [Thistle](www.thistle.co)</li>
+    <li> 2) [Disciple Media](www.DiscipleMedia.com)</li>
+    <li> 3) [McQueen]()</li>
+    <li> 4) [Academy of Art University]()</li>
+    <li> 5) [Observable]()</li>
+</ul>
