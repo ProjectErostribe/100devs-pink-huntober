@@ -1,7 +1,7 @@
 # THE QUEST FOR PINK HUNTOBER
 ## HERE ARE 10 APPS/PROJECTS THAT I PLAN TO WORK ON DURING HUNTOBER:
 <ul>
-    <li> Haunted House Game refactor</li>
+    <li> CNC Online Game</li>
     <li> CNC Rigging Calculator </li>
     <li> CNC Movement Dictionary </li>
     <li> Project Gaia Signup </li>
