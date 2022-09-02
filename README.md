@@ -24,3 +24,6 @@
     <li> 5) [Observable]()</li>
     <li> 6) [Berner's]()</li>
 </ul>
+
+## HERE IS THE DEV.TO ARTICLE I USED TO BUILD MY YOURNEWEMPLOYEE.DEV SITE:
+    https://dev.to/code_mystery/responsive-personal-portfolio-website-using-html-css-and-javascript-556m
