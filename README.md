@@ -27,3 +27,6 @@
 
 ## HERE IS THE DEV.TO ARTICLE I USED TO BUILD MY YOURNEWEMPLOYEE.DEV SITE:
     https://dev.to/code_mystery/responsive-personal-portfolio-website-using-html-css-and-javascript-556m
+
+## HERE IS THE YOUTUBE VIDEO TO FOLLOW ALONG:
+    https://www.youtube.com/watch?v=K1HchLD6fHI&list=PLPxLupE_uLC0PwJywgv3SXurdAzbtF6RC&index=2
