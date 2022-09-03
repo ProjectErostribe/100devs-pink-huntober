@@ -1,11 +1,11 @@
 :root {
-    --neon yellow: #CCFF00;
+    --neonyellow: #CCFF00;
     --rosegold: #C4848B;
     --lavender: #8F7C94;
-    --plum: #4A1539;
+    --ultraviolet: #645394;
     --grey: #485766;
     --tiffany blue: ;
-    --navy blue: ;
+    --navyblue: ;
     
   }
 
@@ -20,17 +20,17 @@ ul {
 }
 
 .light-theme {
-    --bg: var(--green);
-    --fontColor: var(--black);
+    --bg: var(--rosegold);
+    --fontColor: var(--ultraviolet);
     --btnBg: var(--black);
     --btnFontColor: var(--white);
   }
   
   .dark-theme {
-    --bg: var(--black);
-    --fontColor: var(--green);
-    --btnBg: var(--white);
-    --btnFontColor: var(--black);
+    --bg: var(--ultraviolet);
+    --fontColor: var(--neonyellow);
+    --btnBg: var(--navyblue);
+    --btnFontColor: var(--tiffanyblue);
   }
 
 .btn {
